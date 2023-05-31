@@ -1,5 +1,7 @@
-# Programmation impérative et procédurale 
+# Programmation impérative et procédurale
 ## Programmation impérative
+ la programmation impérative est un style de programmation basé sur des instructions précises qui décrivent comment un programme doit fonctionner étape par étape pour résoudre un problème donné. Elle trouve ses origines dans les premiers ordinateurs et a évolué avec le temps pour devenir un pilier essentiel du développement de logiciels.
+
 
 ## Programmation procédurale
 La programmation procédurale est un paradigme de programmation qui se concentre sur la division d'un programme en petites procédures ou fonctions. Chaque procédure accomplit une tâche spécifique et peut être appelée et exécutée à partir de différents endroits dans le programme. Cela permet de rendre le code plus modulaire, plus facile à comprendre et à maintenir.
